@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Home bank</string>
+  <string name="text_loading">Загрузка...</string>
+  <string name="userdata_incorrect">Логин или пароль неверны!</string>
+  <string name="data_incorrect">Неверный запрос</string>
+  <string name="not_respond">Сервер не отвечает</string>
+</resources>
